@@ -1,4 +1,4 @@
-import java.io.PrintStream;
+ y/nimport java.io.PrintStream;
 import java.util.Scanner;
 
 public class Commerce {
@@ -8,7 +8,7 @@ public class Commerce {
 	 Scanner sc = new Scanner(System.in);
 	 Name n = new Name();
 	 
-	 ps.println("Did you want to enter your mobile number:");
+	 ps.println("Did you want to enter your mobile number:y/n");
 	 
 	 String y = "y";
 	
